@@ -1,0 +1,10 @@
+Partner1: Charles Huang, chuang2
+Partner2: Jakub Budz, jakub_budz
+
+b0fc09f - jakub-budz, 13 minutes ago : added histogram
+38e3dfb - jakub-budz, 24 minutes ago : Merge pull request #2 from jakub-budz/merge_conflict_charles
+4d2e9fd - jakub-budz, 27 minutes ago : Merge branch 'main' into merge_conflict_charles
+1e7ccd3 - Charles Huang, 34 minutes ago : Merge pull request #1 from jakub-budz/merge_conflict_jakub
+0dffc7f - jakub-budz, 37 minutes ago : Add new branch and change name
+f4a7ad1 - Charles Huang, 38 minutes ago : changed name
+868ec68 - jakub-budz, 40 minutes ago : Create ps3_pair.qmd
