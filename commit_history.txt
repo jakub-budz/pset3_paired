@@ -1,10 +1,13 @@
-Partner1: Charles Huang, chuang2
-Partner2: Jakub Budz, jakub_budz
-
-b0fc09f - jakub-budz, 13 minutes ago : added histogram
-38e3dfb - jakub-budz, 24 minutes ago : Merge pull request #2 from jakub-budz/merge_conflict_charles
-4d2e9fd - jakub-budz, 27 minutes ago : Merge branch 'main' into merge_conflict_charles
-1e7ccd3 - Charles Huang, 34 minutes ago : Merge pull request #1 from jakub-budz/merge_conflict_jakub
-0dffc7f - jakub-budz, 37 minutes ago : Add new branch and change name
-f4a7ad1 - Charles Huang, 38 minutes ago : changed name
-868ec68 - jakub-budz, 40 minutes ago : Create ps3_pair.qmd
+71c1157 - Charles Huang, 5 minutes ago : Merge branch 'main' of https://github.com/jakub-budz/pset3_paired
+072ab2e - Charles Huang, 7 minutes ago : commit history
+ff32b72 - jakub-budz, 16 minutes ago : fixed function
+d629c25 - Charles Huang, 19 minutes ago : Merge pull request #4 from jakub-budz/histogram
+8302190 - jakub-budz, 25 minutes ago : Merge pull request #3 from jakub-budz/describe
+b0fc09f - jakub-budz, 27 minutes ago : added histogram
+4f477d1 - Charles Huang, 31 minutes ago : updated preview_data to include describe
+38e3dfb - jakub-budz, 38 minutes ago : Merge pull request #2 from jakub-budz/merge_conflict_charles
+4d2e9fd - jakub-budz, 41 minutes ago : Merge branch 'main' into merge_conflict_charles
+1e7ccd3 - Charles Huang, 48 minutes ago : Merge pull request #1 from jakub-budz/merge_conflict_jakub
+0dffc7f - jakub-budz, 51 minutes ago : Add new branch and change name
+f4a7ad1 - Charles Huang, 52 minutes ago : changed name
+868ec68 - jakub-budz, 54 minutes ago : Create ps3_pair.qmd
