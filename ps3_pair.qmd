@@ -1,6 +1,6 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "Charles Huang"
+author: "Charles Huang and Jakub Budz"
 format: 
   pdf:
     include-in-header: 
