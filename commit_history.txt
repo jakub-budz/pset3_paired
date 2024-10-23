@@ -1,3 +1,6 @@
+Partner1 - Charles Huang, chuang2
+Partner2 - Jakub Budz, jakub-budz
+
 71c1157 - Charles Huang, 5 minutes ago : Merge branch 'main' of https://github.com/jakub-budz/pset3_paired
 072ab2e - Charles Huang, 7 minutes ago : commit history
 ff32b72 - jakub-budz, 16 minutes ago : fixed function
